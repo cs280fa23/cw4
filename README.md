@@ -1,1 +1,1 @@
-# # Asynchronous Programming in JavaScript
+# Asynchronous Programming in JavaScript
